@@ -1,0 +1,97 @@
+.topBar{
+	margin-bottom:0;
+}
+.nList>li>a{
+	height:72px;
+	line-height:42px;
+}
+.carousel{
+	margin-top:72px;
+}
+.banner{
+	width:100%;
+}
+#bng5{
+	width:100%;
+}
+.title{
+	color:#ccc;
+}
+.right > h3{
+	margin-top:0;
+}
+
+.img-circle{
+	border:5px solid #ccc;
+	width:100%;
+}
+.jwrap{
+	margin-bottom:20px;
+}
+.jwrap img{
+	width:100%;
+}
+.jwrap h3{
+	margin-top:5px;
+}
+#bng1{
+	width:100%;
+}
+#bng2{
+	width: 100%;
+	height:150px;
+}
+#bng3{
+	width: 100%;
+	height:158px;
+}
+#bng4{
+	width: 100%;
+	height:158px;
+}
+.bottomBar{
+	margin-top: 20px;
+	height:80px;
+	background:#222;
+	color:#fff;
+	text-align:center;
+	line-height:80px;
+}
+.imgWrap{
+	overflow:hidden;
+	padding-right:0;
+	margin-top: 5px;
+}
+.hid{
+	height:100%;
+	position: absolute;
+	padding-right:20px;
+	box-sizing: border-box;
+	z-index:-99;
+	text-align:center;
+	background:#444;
+	color:#fff;
+}
+#bgImg{
+	margin-top:72px;
+	background:url(../images/liebiao_01.jpg) no-repeat;
+	background-size:100% 100%;
+	height:80px;
+	color:#fff;
+	text-align:center;
+	line-height:72px;
+	font-size:25px;
+}
+.panel-primary{
+	margin-top:20px;
+}
+.list-group{
+	margin-top:20px;
+}
+.newsTitle{
+	margin-left:10px;
+	font-size:20px;
+}
+.newImg{
+	width:100%;
+}
